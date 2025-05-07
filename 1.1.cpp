@@ -44,7 +44,7 @@ public:
  };
  
  int main() {
-     BankAccount account("Aanshi", "123456789", 1000);
+     BankAccount account("shreeji", "123456789", 1000);
      account.getAccountDetails();
      account.deposit(500);
      account.withdraw(200);
